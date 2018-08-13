@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformsemma.gravityformsemma]
-file_filter = translations/gravityformsemma-<lang>.po
-minimum_perc = 0
-source_file = gravityformsemma.pot
-source_lang = en_US
-type = PO

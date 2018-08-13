@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformsfreshbooks.gravityformsfreshbooks]
-file_filter = translations/gravityformsfreshbooks-<lang>.po
-minimum_perc = 0
-source_file = gravityformsfreshbooks.pot
-source_lang = en_US
-type = PO

@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformsmailchimp.gravityformsmailchimp]
-file_filter = translations/gravityformsmailchimp-<lang>.po
-minimum_perc = 0
-source_file = gravityformsmailchimp.pot
-source_lang = en_US
-type = PO

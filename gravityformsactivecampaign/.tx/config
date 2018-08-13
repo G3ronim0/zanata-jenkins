@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformsactivecampaign.gravityformsactivecampaign]
-file_filter = translations/gravityformsactivecampaign-<lang>.po
-minimum_perc = 0
-source_file = gravityformsactivecampaign.pot
-source_lang = en_US
-type = PO

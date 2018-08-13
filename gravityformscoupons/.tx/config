@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformscoupons.gravityformscoupons]
-file_filter = translations/gravityformscoupons-<lang>.po
-minimum_perc = 0
-source_file = gravityformscoupons.pot
-source_lang = en_US
-type = PO

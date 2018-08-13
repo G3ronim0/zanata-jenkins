@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformssignature.gravityformssignature]
-file_filter = translations/gravityformssignature-<lang>.po
-minimum_perc = 0
-source_file = gravityformssignature.pot
-source_lang = en_US
-type = PO

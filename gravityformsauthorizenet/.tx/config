@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformsauthorizenet.gravityformsauthorizenet]
-file_filter = translations/gravityformsauthorizenet-<lang>.po
-minimum_perc = 0
-source_file = gravityformsauthorizenet.pot
-source_lang = en_US
-type = PO

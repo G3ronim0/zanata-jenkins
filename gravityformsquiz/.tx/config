@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformsquiz.gravityformsquiz]
-file_filter = translations/gravityformsquiz-<lang>.po
-minimum_perc = 0
-source_file = gravityformsquiz.pot
-source_lang = en_US
-type = PO

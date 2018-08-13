@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformsagilecrm.gravityformsagilecrm]
-file_filter = translations/gravityformsagilecrm-<lang>.po
-minimum_perc = 0
-source_file = gravityformsagilecrm.pot
-source_lang = en_US
-type = PO

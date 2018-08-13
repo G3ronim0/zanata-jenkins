@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformsuserregistration.gravityformsuserregistration]
-file_filter = translations/gravityformsuserregistration-<lang>.po
-minimum_perc = 0
-source_file = gravityformsuserregistration.pot
-source_lang = en_US
-type = PO

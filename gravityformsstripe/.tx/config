@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformsstripe.gravityformsstripe]
-file_filter = translations/gravityformsstripe-<lang>.po
-minimum_perc = 0
-source_file = gravityformsstripe.pot
-source_lang = en_US
-type = PO

@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformscleverreach.gravityformscleverreach]
-file_filter = translations/gravityformscleverreach-<lang>.po
-minimum_perc = 0
-source_file = gravityformscleverreach.pot
-source_lang = en_US
-type = PO

@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-[gravityformsaweber.gravityformsaweber]
-file_filter = translations/gravityformsaweber-<lang>.po
-minimum_perc = 0
-source_file = gravityformsaweber.pot
-source_lang = en_US
-type = PO
