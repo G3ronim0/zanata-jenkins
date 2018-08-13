@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+[gravityformstwilio.gravityformstwilio]
+file_filter = translations/gravityformstwilio-<lang>.po
+minimum_perc = 0
+source_file = gravityformstwilio.pot
+source_lang = en_US
+type = PO

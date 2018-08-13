@@ -1,0 +1,186 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: gravityformsactivecampaign\n"
+"Report-Msgid-Bugs-To: http://www.gravtiyhelp.com\n"
+"POT-Creation-Date: 2018-04-02 20:02:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: class-gf-activecampaign.php:314
+msgid "Subscribe contact to ActiveCampaign only when payment is received."
+msgstr ""
+
+#: class-gf-activecampaign.php:359
+msgid "API URL"
+msgstr ""
+
+#: class-gf-activecampaign.php:366
+msgid "API Key"
+msgstr ""
+
+#: class-gf-activecampaign.php:374
+msgid "ActiveCampaign settings have been updated."
+msgstr ""
+
+#: class-gf-activecampaign.php:392
+msgid ""
+"ActiveCampaign makes it easy to send email newsletters to your customers, "
+"manage your subscriber lists, and track campaign performance. Use Gravity "
+"Forms to collect customer information and automatically add it to your "
+"ActiveCampaign list. If you don't have an ActiveCampaign account, you can "
+"%1$ssign up for one here.%2$s"
+msgstr ""
+
+#: class-gf-activecampaign.php:400
+msgid ""
+"Gravity Forms ActiveCampaign Add-On requires your API URL and API Key, which "
+"can be found in the API tab on the account settings page."
+msgstr ""
+
+#: class-gf-activecampaign.php:441
+msgid "%s Settings"
+msgstr ""
+
+#: class-gf-activecampaign.php:446
+msgid "To get started, please configure your %s."
+msgstr ""
+
+#: class-gf-activecampaign.php:449
+msgid ""
+"Please make sure you have entered valid API credentials on the %s page."
+msgstr ""
+
+#: class-gf-activecampaign.php:461 class-gf-activecampaign.php:502
+msgid "Name"
+msgstr ""
+
+#: class-gf-activecampaign.php:462 class-gf-activecampaign.php:506
+#: class-gf-activecampaign.php:511
+msgid "ActiveCampaign List"
+msgstr ""
+
+#: class-gf-activecampaign.php:499
+msgid "Feed Name"
+msgstr ""
+
+#: class-gf-activecampaign.php:502
+msgid "Enter a feed name to uniquely identify this setup."
+msgstr ""
+
+#: class-gf-activecampaign.php:511
+msgid "Select which ActiveCampaign list this feed will add contacts to."
+msgstr ""
+
+#: class-gf-activecampaign.php:515 class-gf-activecampaign.php:519
+msgid "Map Fields"
+msgstr ""
+
+#: class-gf-activecampaign.php:519
+msgid ""
+"Select which Gravity Form fields pair with their respective ActiveCampaign "
+"fields."
+msgstr ""
+
+#: class-gf-activecampaign.php:531
+msgid "Tags"
+msgstr ""
+
+#: class-gf-activecampaign.php:544 class-gf-activecampaign.php:548
+msgid "Double Opt-In Form"
+msgstr ""
+
+#: class-gf-activecampaign.php:548
+msgid ""
+"Select which ActiveCampaign form will be used when exporting to "
+"ActiveCampaign to send the opt-in email."
+msgstr ""
+
+#: class-gf-activecampaign.php:556 class-gf-activecampaign.php:559
+msgid "Conditional Logic"
+msgstr ""
+
+#: class-gf-activecampaign.php:559
+msgid ""
+"When conditional logic is enabled, form submissions will only be exported to "
+"ActiveCampaign when the condition is met. When disabled, all form "
+"submissions will be exported."
+msgstr ""
+
+#: class-gf-activecampaign.php:563
+msgid "Options"
+msgstr ""
+
+#: class-gf-activecampaign.php:569 class-gf-activecampaign.php:571
+msgid "Instant Responders"
+msgstr ""
+
+#: class-gf-activecampaign.php:571
+msgid ""
+"When the instant responders option is enabled, ActiveCampaign will send any "
+"instant responders setup when the contact is added to the list. This option "
+"is not available to users on a free trial."
+msgstr ""
+
+#: class-gf-activecampaign.php:575 class-gf-activecampaign.php:577
+msgid "Send the last broadcast campaign"
+msgstr ""
+
+#: class-gf-activecampaign.php:577
+msgid ""
+"When the send the last broadcast campaign option is enabled, ActiveCampaign "
+"will send the last campaign sent out to the list to the contact being added. "
+"This option is not available to users on a free trial."
+msgstr ""
+
+#: class-gf-activecampaign.php:682
+msgid "Email Address"
+msgstr ""
+
+#: class-gf-activecampaign.php:688
+msgid "First Name"
+msgstr ""
+
+#: class-gf-activecampaign.php:693
+msgid "Last Name"
+msgstr ""
+
+#: class-gf-activecampaign.php:698
+msgid "Phone Number"
+msgstr ""
+
+#: class-gf-activecampaign.php:703
+msgid "Organization Name"
+msgstr ""
+
+#: class-gf-activecampaign.php:782
+msgid "Add Custom Field"
+msgstr ""
+
+#: class-gf-activecampaign.php:799
+msgid "Select a Form"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Gravity Forms ActiveCampaign Add-On"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.gravityforms.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Integrates Gravity Forms with ActiveCampaign, allowing form submissions to "
+"be automatically sent to your ActiveCampaign account."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "rocketgenius"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.rocketgenius.com"
+msgstr ""
+

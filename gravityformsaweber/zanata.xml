@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config xmlns="http://zanata.org/namespace/config/">
+<url>https://rocketgenius.wp-translations.pro/</url>
+<project>gravityformsaweber</project>
+<project-version>stable</project-version>
+<project-type>gettext</project-type>
+<src-dir>.</src-dir>
+<trans-dir>translations</trans-dir>
+<rules>
+<rule pattern="**.pot">{filename}-{locale_with_underscore}.po</rule>
+</rules>
+</config>

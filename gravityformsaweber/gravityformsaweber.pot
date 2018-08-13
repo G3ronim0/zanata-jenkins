@@ -1,0 +1,162 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: gravityformsaweber\n"
+"Report-Msgid-Bugs-To: http://www.gravtiyhelp.com\n"
+"POT-Creation-Date: 2018-04-12 16:05:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: class-gf-aweber.php:179
+msgid "Subscribe user to AWeber only when payment is received."
+msgstr ""
+
+#: class-gf-aweber.php:202
+msgid "AWeber Account Information"
+msgstr ""
+
+#: class-gf-aweber.php:206
+msgid ""
+"AWeber is an email marketing software for designers and their clients. Use "
+"Gravity Forms to collect customer information and automatically add it to "
+"your client's AWeber subscription list. If you don't have an AWeber account, "
+"you can %1$ssign up for one here%2$s"
+msgstr ""
+
+#: class-gf-aweber.php:211
+msgid "%1$sClick here to retrieve your Authorization code%2$s"
+msgstr ""
+
+#: class-gf-aweber.php:215
+msgid ""
+"You will need to log in to your AWeber account. Upon a successful login, a "
+"string will be returned. Copy the whole string and paste into the text box "
+"below."
+msgstr ""
+
+#: class-gf-aweber.php:220
+msgid "Authorization Code"
+msgstr ""
+
+#: class-gf-aweber.php:279
+msgid ""
+"You can find your unique Authorization code by clicking on the link above "
+"and logging into your AWeber account."
+msgstr ""
+
+#: class-gf-aweber.php:312
+msgid "AWeber Feed"
+msgstr ""
+
+#: class-gf-aweber.php:317 class-gf-aweber.php:323 class-gf-aweber.php:625
+msgid "Name"
+msgstr ""
+
+#: class-gf-aweber.php:324
+msgid "Enter a feed name to uniquely identify this setup."
+msgstr ""
+
+#: class-gf-aweber.php:329 class-gf-aweber.php:336
+msgid "Account"
+msgstr ""
+
+#: class-gf-aweber.php:337
+msgid "Select the AWeber account you would like to add your contacts to."
+msgstr ""
+
+#: class-gf-aweber.php:342 class-gf-aweber.php:348
+msgid "Contact List"
+msgstr ""
+
+#: class-gf-aweber.php:349
+msgid "Select the AWeber list you would like to add your contacts to."
+msgstr ""
+
+#: class-gf-aweber.php:354 class-gf-aweber.php:360
+msgid "Map Fields"
+msgstr ""
+
+#: class-gf-aweber.php:361
+msgid ""
+"Associate your AWeber fields to the appropriate Gravity Form fields by "
+"selecting the appropriate form field from the list."
+msgstr ""
+
+#: class-gf-aweber.php:366 class-gf-aweber.php:371
+msgid "Conditional Logic"
+msgstr ""
+
+#: class-gf-aweber.php:372
+msgid ""
+"When conditional logic is enabled, form submissions will only be exported to "
+"AWeber when the condition is met. When disabled all form submissions will be "
+"exported."
+msgstr ""
+
+#: class-gf-aweber.php:460
+msgid "Select Account"
+msgstr ""
+
+#: class-gf-aweber.php:522
+msgid "Select List"
+msgstr ""
+
+#: class-gf-aweber.php:626
+msgid "AWeber Account"
+msgstr ""
+
+#: class-gf-aweber.php:627
+msgid "AWeber List"
+msgstr ""
+
+#: class-gf-aweber.php:649
+msgid "Invalid ID"
+msgstr ""
+
+#: class-gf-aweber.php:706
+msgid "List not found in AWeber"
+msgstr ""
+
+#: class-gf-aweber.php:746
+msgid "Unable to subscribe user because API could not be initialized."
+msgstr ""
+
+#: class-gf-aweber.php:756
+msgid "Unable to subscribe user because email address was invalid."
+msgstr ""
+
+#: class-gf-aweber.php:766
+msgid "Unable to subscribe user because account ID was invalid."
+msgstr ""
+
+#: class-gf-aweber.php:1035
+msgid "Email Address"
+msgstr ""
+
+#: class-gf-aweber.php:1041
+msgid "Full Name"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Gravity Forms AWeber Add-On"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.gravityforms.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Integrates Gravity Forms with AWeber, allowing form submissions to be "
+"automatically sent to your AWeber account"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "rocketgenius"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.rocketgenius.com"
+msgstr ""
+

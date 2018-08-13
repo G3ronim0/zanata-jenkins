@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+[gravityformsdropbox.gravityformsdropbox]
+file_filter = translations/gravityformsdropbox-<lang>.po
+minimum_perc = 0
+source_file = gravityformsdropbox.pot
+source_lang = en_US
+type = PO

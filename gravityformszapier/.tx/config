@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+[gravityformszapier.gravityformszapier]
+file_filter = translations/gravityformszapier-<lang>.po
+minimum_perc = 0
+source_file = gravityformszapier.pot
+source_lang = en_US
+type = PO

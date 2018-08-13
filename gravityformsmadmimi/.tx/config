@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+[gravityformsmadmimi.gravityformsmadmimi]
+file_filter = translations/gravityformsmadmimi-<lang>.po
+minimum_perc = 0
+source_file = gravityformsmadmimi.pot
+source_lang = en_US
+type = PO

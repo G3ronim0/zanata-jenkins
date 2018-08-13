@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+[gravityformshighrise.gravityformshighrise]
+file_filter = translations/gravityformshighrise-<lang>.po
+minimum_perc = 0
+source_file = gravityformshighrise.pot
+source_lang = en_US
+type = PO

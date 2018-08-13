@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+[gravityformstrello.gravityformstrello]
+file_filter = translations/gravityformstrello-<lang>.po
+minimum_perc = 0
+source_file = gravityformstrello.pot
+source_lang = en_US
+type = PO

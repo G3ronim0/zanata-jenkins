@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+[gravityformsbreeze.gravityformsbreeze]
+file_filter = translations/gravityformsbreeze-<lang>.po
+minimum_perc = 0
+source_file = gravityformsbreeze.pot
+source_lang = en_US
+type = PO

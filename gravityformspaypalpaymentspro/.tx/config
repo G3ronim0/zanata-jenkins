@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+[gravityformspaypalpaymentspro.gravityformspaypalpaymentspro]
+file_filter = translations/gravityformspaypalpaymentspro-<lang>.po
+minimum_perc = 0
+source_file = gravityformspaypalpaymentspro.pot
+source_lang = en_US
+type = PO

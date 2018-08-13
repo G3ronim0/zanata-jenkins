@@ -1,0 +1,298 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: gravityformsfreshbooks\n"
+"Report-Msgid-Bugs-To: http://www.gravtiyhelp.com\n"
+"POT-Creation-Date: 2018-04-10 17:29:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: class-gf-freshbooks.php:100
+msgid "FreshBooks Add-On v2.0"
+msgstr ""
+
+#: class-gf-freshbooks.php:103
+msgid ""
+"Thank you for updating! The new version of the Gravity Forms FreshBooks Add-"
+"On makes changes to how you manage your FreshBooks integration."
+msgstr ""
+
+#: class-gf-freshbooks.php:108
+msgid "Manage FreshBooks Contextually"
+msgstr ""
+
+#: class-gf-freshbooks.php:110
+msgid ""
+"FreshBooks Feeds are now accessed via the FreshBooks sub-menu within the "
+"Form Settings for the Form with which you would like to integrate FreshBooks."
+""
+msgstr ""
+
+#: class-gf-freshbooks.php:121
+msgid "I understand this change, dismiss this message!"
+msgstr ""
+
+#: class-gf-freshbooks.php:123
+msgid "Please wait..."
+msgstr ""
+
+#: class-gf-freshbooks.php:135
+msgid "FreshBooks Account Information"
+msgstr ""
+
+#: class-gf-freshbooks.php:136
+msgid ""
+"FreshBooks is a fast, painless way to track time and invoice your clients. "
+"Use Gravity Forms to collect customer information and automatically create "
+"FreshBooks client profiles as well as invoices and estimates. If you don't "
+"have a FreshBooks account, you can %1$s sign up for one here.%2$s"
+msgstr ""
+
+#: class-gf-freshbooks.php:141
+msgid "Site Name"
+msgstr ""
+
+#: class-gf-freshbooks.php:148
+msgid "Authorization Token"
+msgstr ""
+
+#: class-gf-freshbooks.php:176
+msgid ""
+"We are unable to log in to FreshBooks with the provided username and "
+"password. Please make sure they are valid in the %sSettings Page%s"
+msgstr ""
+
+#: class-gf-freshbooks.php:191
+msgid "Freshbooks Feed Settings"
+msgstr ""
+
+#: class-gf-freshbooks.php:196 class-gf-freshbooks.php:200
+#: class-gf-freshbooks.php:747
+msgid "Name"
+msgstr ""
+
+#: class-gf-freshbooks.php:200
+msgid "Enter a feed name to uniquely identify this setup."
+msgstr ""
+
+#: class-gf-freshbooks.php:205
+msgid "Client Settings"
+msgstr ""
+
+#: class-gf-freshbooks.php:210
+msgid "Email"
+msgstr ""
+
+#: class-gf-freshbooks.php:216
+msgid "First Name"
+msgstr ""
+
+#: class-gf-freshbooks.php:223
+msgid "Last Name"
+msgstr ""
+
+#: class-gf-freshbooks.php:230
+msgid "Organization"
+msgstr ""
+
+#: class-gf-freshbooks.php:237
+msgid "Address"
+msgstr ""
+
+#: class-gf-freshbooks.php:244
+msgid "Phone"
+msgstr ""
+
+#: class-gf-freshbooks.php:251
+msgid "Fax"
+msgstr ""
+
+#: class-gf-freshbooks.php:258 class-gf-freshbooks.php:343
+msgid "Notes"
+msgstr ""
+
+#: class-gf-freshbooks.php:265
+msgid "Invoice/Estimate Settings"
+msgstr ""
+
+#: class-gf-freshbooks.php:270 class-gf-freshbooks.php:279
+msgid "Also Create"
+msgstr ""
+
+#: class-gf-freshbooks.php:279
+msgid ""
+"Select invoice or estimate to automatically create them in your FreshBooks "
+"account in addition to creating the client."
+msgstr ""
+
+#: class-gf-freshbooks.php:289 class-gf-freshbooks.php:291
+msgid "Send Invoice/Estimate By Email"
+msgstr ""
+
+#: class-gf-freshbooks.php:291
+msgid ""
+"By checking this option, the invoice/estimate will automatically be emailed "
+"to the client, instead of left in Draft form."
+msgstr ""
+
+#: class-gf-freshbooks.php:302 class-gf-freshbooks.php:304
+msgid "Mark Invoice as Paid"
+msgstr ""
+
+#: class-gf-freshbooks.php:304
+msgid ""
+"By checking this option, once the user has completed his/her payment "
+"transaction, a Freshbooks payment for the invoice amount will automatically "
+"be created, changing the invoice status to Paid."
+msgstr ""
+
+#: class-gf-freshbooks.php:310 class-gf-freshbooks.php:313
+msgid "PO Number"
+msgstr ""
+
+#: class-gf-freshbooks.php:313
+msgid ""
+"Map the PO number to the appropriate form field. The data will be truncated "
+"to 25 characters per a requirement by FreshBooks."
+msgstr ""
+
+#: class-gf-freshbooks.php:318 class-gf-freshbooks.php:320
+msgid "Discount"
+msgstr ""
+
+#: class-gf-freshbooks.php:320
+msgid ""
+"When creating an invoice or estimate, this discount will be applied to the "
+"total invoice/estimate cost."
+msgstr ""
+
+#: class-gf-freshbooks.php:329 class-gf-freshbooks.php:331
+msgid "Line Items"
+msgstr ""
+
+#: class-gf-freshbooks.php:331
+msgid "Create one or more line item(s) for your invoice or estimate."
+msgstr ""
+
+#: class-gf-freshbooks.php:350
+msgid "Terms"
+msgstr ""
+
+#: class-gf-freshbooks.php:358
+msgid "Other Settings"
+msgstr ""
+
+#: class-gf-freshbooks.php:363 class-gf-freshbooks.php:365
+msgid "Export Condition"
+msgstr ""
+
+#: class-gf-freshbooks.php:365
+msgid ""
+"When the export condition is enabled, form submissions will only be exported "
+"to FreshBooks when the condition is met. When disabled all form submissions "
+"will be exported."
+msgstr ""
+
+#: class-gf-freshbooks.php:395
+msgid "Update existing client"
+msgstr ""
+
+#: class-gf-freshbooks.php:395
+msgid ""
+"When this box is checked and a client already exists in your FreshBooks "
+"account, it will be updated with the newly entered information. When this "
+"box is unchecked, a new client will be created for every form submission."
+msgstr ""
+
+#: class-gf-freshbooks.php:398
+msgid "Update an existing client if email addresses match"
+msgstr ""
+
+#: class-gf-freshbooks.php:433
+msgid "Fixed Cost and Quantity"
+msgstr ""
+
+#: class-gf-freshbooks.php:433
+msgid "Enter fixed cost and quantity for your line items."
+msgstr ""
+
+#: class-gf-freshbooks.php:434 class-gf-freshbooks.php:444
+msgid "Use Pricing Fields"
+msgstr ""
+
+#: class-gf-freshbooks.php:434
+msgid "Use Product fields on form as line items."
+msgstr ""
+
+#: class-gf-freshbooks.php:435
+msgid "Dynamic Cost and Quantity"
+msgstr ""
+
+#: class-gf-freshbooks.php:435
+msgid "Allow line item cost and quantity to be populated from a form field."
+msgstr ""
+
+#: class-gf-freshbooks.php:438
+msgid "Fixed Costs and Quantities"
+msgstr ""
+
+#: class-gf-freshbooks.php:450
+msgid "Pull Costs and Quantities from Form Fields"
+msgstr ""
+
+#: class-gf-freshbooks.php:562
+msgid "Line Item"
+msgstr ""
+
+#: class-gf-freshbooks.php:563
+msgid "Description"
+msgstr ""
+
+#: class-gf-freshbooks.php:564
+msgid "Unit Cost"
+msgstr ""
+
+#: class-gf-freshbooks.php:565
+msgid "Quantity"
+msgstr ""
+
+#: class-gf-freshbooks.php:748
+msgid "Invoice"
+msgstr ""
+
+#: class-gf-freshbooks.php:749
+msgid "Estimate"
+msgstr ""
+
+#: class-gf-freshbooks.php:1018
+msgid "%s #%s has been successfully created. Amount: %s. Status: %s."
+msgstr ""
+
+#: class-gf-freshbooks.php:1315
+msgid "Please enter a number between 0 and 100."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Gravity Forms FreshBooks Classic Add-On"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.gravityforms.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Integrates Gravity Forms with FreshBooks Classic, allowing form submissions "
+"to be automatically sent to your FreshBooks Classic account, creating "
+"clients, invoices and estimates.  Not compatible with the new FreshBooks."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "rocketgenius"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.rocketgenius.com"
+msgstr ""
+

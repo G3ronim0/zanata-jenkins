@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+[gravityformsslack.gravityformsslack]
+file_filter = translations/gravityformsslack-<lang>.po
+minimum_perc = 0
+source_file = gravityformsslack.pot
+source_lang = en_US
+type = PO
